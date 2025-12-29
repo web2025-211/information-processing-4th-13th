@@ -114,3 +114,11 @@ img {
   margin: 15px 0;
   border-radius: 5px;
 }
+
+blockquote {
+    border-left: 4px solid #3498db;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+    color: #555;
+    font-style: italic;
+}
